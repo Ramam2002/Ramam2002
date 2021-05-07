@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramam2002
-- 👀 I’m interested in web-development with python
+- 👀 I’m interested in web-development with reactjs and also interested in Big-Data-analysis with python
 - 📫 How to reach me email: sriramam.sv@gmail.com 
 
 <!---
