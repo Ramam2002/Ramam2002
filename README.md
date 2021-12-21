@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramam2002
-- 👀 I’m interested in web-development with Angular 2 framework and also interested in ML and Big-Data-analysis
+- 👀 I’m interested in web-development with ReactJS and also interested in ML and Big-Data-analysis
 - 📫 How to reach me email: sriramam.sv@gmail.com 
 
 <!---
